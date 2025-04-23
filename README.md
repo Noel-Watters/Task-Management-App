@@ -169,19 +169,6 @@ src/
 
 ---
 
-## **Future Enhancements**
-- Add task prioritization and sorting.
-- Implement task search functionality.
-- Add unit tests for components and hooks.
-- Improve error handling and user feedback.
-
----
-
-## **License**
-This project is licensed under the MIT License.
-
----
-
 ## **Acknowledgments**
 - [Auth0](https://auth0.com/) for authentication services.
 - [Bootstrap](https://getbootstrap.com/) for styling.
